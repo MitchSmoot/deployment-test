@@ -10,7 +10,5 @@
     ],
     "sharedGlobals": []
   },
-  {
-    "defaultProject": "web-app"
-  }
+  "defaultProject": "web-app"
 }
